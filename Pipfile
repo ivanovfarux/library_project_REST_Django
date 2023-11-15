@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 drf-yasg = "*"
 gunicorn = "*"
+whitenoise = "*"
 
 [dev-packages]
 
